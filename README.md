@@ -94,7 +94,7 @@ Dice Score was the primary performance indicator due to class imbalance.
 The final model is deployed **on Hugging Face Spaces** with a simple web interface to upload and segment fundus images.
 
 **Live Demo:**  
-`[https://huggingface.co/spaces/dilrose/fundus-segmentation]`
+[https://huggingface.co/spaces/dilrose/fundus-segmentation]
 
 ---
 
